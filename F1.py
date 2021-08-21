@@ -11,3 +11,8 @@ b=20
 c=30
 print("Has estado oco pado hase poco?")
 
+print ("wlcm")
+a=10
+b=20
+c=30
+print("Has estado oco pado hase poco?")
